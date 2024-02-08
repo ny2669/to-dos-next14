@@ -1,9 +1,21 @@
 {
   "tasks": [
     {
-      "id": "73",
+      "id": "59",
       "text": {
-        "task": "call about mot"
+        "task": "learn server actions"
+      }
+    },
+    {
+      "id": "62",
+      "text": {
+        "task": "learn Html"
+      }
+    },
+    {
+      "id": "59",
+      "text": {
+        "task": "finish type script"
       }
     }
   ]
